@@ -28,5 +28,5 @@ SQL (Optional, for data queries)
 Open the .pbix file in Power BI Desktop.
 Explore different visuals and insights.
 Apply filters to analyze specific product categories or regions.
-
+https://app.powerbi.com/links/7tq6vj0b45?ctid=2145b90d-af2a-43cb-b93b-fa836c9b4b84&pbi_source=linkShare
 
