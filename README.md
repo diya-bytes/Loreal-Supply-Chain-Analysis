@@ -35,8 +35,4 @@ The dataset used includes key metrics like sales, revenue, product categories, a
 Link - https://app.powerbi.com/links/7tq6vj0b45?ctid=2145b90d-af2a-43cb-b93b-fa836c9b4b84&pbi_source=linkShare
 
 
----
-
-This makes it more personal and highlights your initiative. Let me know if you need further refinements! 🚀
-https://app.powerbi.com/links/7tq6vj0b45?ctid=2145b90d-af2a-43cb-b93b-fa836c9b4b84&pbi_source=linkShare
 
