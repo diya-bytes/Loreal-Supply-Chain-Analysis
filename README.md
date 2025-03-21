@@ -1,9 +1,5 @@
 # Loreal-Supply-Chain-Analysis
 
-You can add a **Motivation & Inspiration** section in your README to explain why you created this project. Here’s an updated version of your README:  
-
----
-
 # **L’Oréal Sales & Supply Chain Dashboard**  
 
 ## 📌 **Project Overview**  
@@ -14,7 +10,7 @@ This project analyzes L’Oréal’s sales and supply chain performance using **
 - **Sales Distribution by Category and Region**  
 
 ## 💡 **Motivation & Inspiration**  
-I created this project as part of my application for the **L’Oréal program**. While researching the company, I was inspired to analyze its sales and supply chain performance to understand its business strategies better. This dashboard showcases my **data analytics skills** and my ability to generate valuable insights for business decision-making.  
+I created this project as part of my application for the **L'Oréal Graduate Engineer Trainee Program**. While researching the company, I was inspired to analyze its sales and supply chain performance to understand its business strategies better. This dashboard showcases my **data analytics skills** and my ability to generate valuable insights for business decision-making.  
 
 ## 📂 **Dataset**  
 The dataset used includes key metrics like sales, revenue, product categories, and regional performance. It has been cleaned and preprocessed for analysis.  
@@ -36,8 +32,8 @@ The dataset used includes key metrics like sales, revenue, product categories, a
 2. Explore different visuals and insights.  
 3. Apply filters to analyze specific product categories or regions.  
 
-## 📷 **Dashboard Preview**  
-(Attach an image of your dashboard)  
+Link - https://app.powerbi.com/links/7tq6vj0b45?ctid=2145b90d-af2a-43cb-b93b-fa836c9b4b84&pbi_source=linkShare
+
 
 ---
 
